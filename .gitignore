@@ -1,2 +1,10 @@
 .env
 .venv
+.idea
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
